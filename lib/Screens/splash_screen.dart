@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'login_page.dart';
+import 'package:nectar_ui/Sign_Page/welcome_page.dart';
+import 'package:nectar_ui/core/constants/app_images.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -17,25 +18,20 @@ class _SplashScreenState extends State<SplashScreen> {
       if (!mounted) return;
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (_) => const LoginPage()),
+        MaterialPageRoute(builder: (_) => const OnboardingScreen()),
       );
     });
   }
 
   @override
-   Widget build(BuildContext context) {
+  Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFF53B175),
+      backgroundColor: Color(0xFF53B175),
       body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: const [
-            Image(
-              image: AssetImage("assets/Logo.png"),
-              width: 300,
-              height: 300,
-            ),
-          ],
+        child: Image.asset(
+          AppImages.nectarwhite,
+          width: 300,
+          height: 300,
         ),
       ),
     );
