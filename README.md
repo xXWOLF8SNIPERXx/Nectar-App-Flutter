@@ -3,6 +3,7 @@
 
 0️⃣ Splash Screen
 
+⬇️
 
 🛒 Nectar Logo
 
@@ -11,6 +12,7 @@
 
 1️⃣ Login Screen
 
+⬇️
 
 🥕 Carrot logo at the top (app logo).
 
@@ -29,6 +31,7 @@
 
 2️⃣ Location Screen
 
+⬇️
 
 📍 Big location pin on a map image.
 
@@ -43,6 +46,7 @@
 
 3️⃣ Sign Up Screen
 
+⬇️
 
 🥕 Carrot logo at the top.
 
