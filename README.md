@@ -3,17 +3,14 @@
 
 0️⃣ Splash Screen
 
-⬇️
 
 • Nectar Logo
 
 • Green Background
 
-⬇️
 
 1️⃣ Login Screen
 
-⬇️
 
 • Carrot logo at the top (app logo).
 
@@ -29,11 +26,9 @@
 
 • Text link: "Don’t have an account? Register"
 
-⬇️
 
 2️⃣ Location Screen
 
-⬇️
 
 • Big location pin on a map image.
 
@@ -45,11 +40,9 @@
 
 • Green button: Submit
 
-⬇️
 
 3️⃣ Sign Up Screen
 
-⬇️
 
 • Carrot logo at the top.
 
