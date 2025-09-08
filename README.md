@@ -5,9 +5,9 @@
 
 ⬇️
 
-🛒 Nectar Logo
+• Nectar Logo
 
-🟩 Green Background
+• Green Background
 
 ⬇️
 
@@ -15,19 +15,19 @@
 
 ⬇️
 
-🥕 Carrot logo at the top (app logo).
+• Carrot logo at the top (app logo).
 
-📝 Title: Login
+• Title: Login
 
-💬 Subtitle: "Enter your emails and password"
+• Subtitle: "Enter your emails and password"
 
-📧 Input field: Email
+• Input field: Email
 
-🔒 Input field: Password
+• Input field: Password
 
-✅ Green button: Login
+• Green button: Login
 
-➡️ Text link: "Don’t have an account? Register"
+• Text link: "Don’t have an account? Register"
 
 ⬇️
 
@@ -35,15 +35,15 @@
 
 ⬇️
 
-📍 Big location pin on a map image.
+• Big location pin on a map image.
 
-📝 Title: Location
+• Title: Location
 
-💬 Subtitle: "Enter Your Location – We will help you find nearby stores."
+• Subtitle: "Enter Your Location – We will help you find nearby stores."
 
-⌨️ Input box: "Write something…" (placeholder)
+• Input box: "Write something…" (placeholder)
 
-✅ Green button: Submit
+• Green button: Submit
 
 ⬇️
 
@@ -51,19 +51,19 @@
 
 ⬇️
 
-🥕 Carrot logo at the top.
+• Carrot logo at the top.
 
-📝 Title: Sign Up
+• Title: Sign Up
 
-💬 Subtitle: "Create your account"
+• Subtitle: "Create your account"
 
-👤 Input field: Username
+• Input field: Username
 
-📧 Input field: Email
+• Input field: Email
 
-🔒 Input field: Password
+• Input field: Password
 
-✅ Green button: Sign Up
+• Green button: Sign Up
 
-➡️ Text link: "Already have an account? Login"
+• Text link: "Already have an account? Login"
 
