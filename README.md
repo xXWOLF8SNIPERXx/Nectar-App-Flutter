@@ -9,6 +9,7 @@
 
 🟩 Green Background
 
+⬇️
 
 1️⃣ Login Screen
 
@@ -28,6 +29,7 @@
 
 ➡️ Text link: "Don’t have an account? Register"
 
+⬇️
 
 2️⃣ Location Screen
 
@@ -43,6 +45,7 @@
 
 ✅ Green button: Submit
 
+⬇️
 
 3️⃣ Sign Up Screen
 
